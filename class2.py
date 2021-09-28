@@ -12,7 +12,7 @@ class Person:
         print("my name is {0}".format(self.name))
 
 # 인스턴스 생성
-# 동기화테스트
+# 동기화테스트1
 p1 = Person()
 p2 = Person()
 p3 = Person()
